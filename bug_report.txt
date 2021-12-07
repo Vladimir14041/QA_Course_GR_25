@@ -1,0 +1,21 @@
+Bug_report_1
+ID
+Assigne
+Date
+Summary/Descrition
+Project
+Actual result
+Expected result
+APP Component
+Version
+Reported by
+Source url
+Console
+Fullstory session
+Browser
+Screen Size
+OS
+Viewport Size
+Zoom Level
+Pixel ratio
+
