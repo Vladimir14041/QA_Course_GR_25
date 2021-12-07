@@ -1,0 +1,9 @@
+Chek list structure
+ID
+test type
+date
+author
+project
+expected result
+steps to reproduce
+
