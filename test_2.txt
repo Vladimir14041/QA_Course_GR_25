@@ -1,5 +1,0 @@
-<xml>
-<name>Vova</name>
-<age>31</age>
-<City>Kyiv</City>
-<from>Ukraine</from>

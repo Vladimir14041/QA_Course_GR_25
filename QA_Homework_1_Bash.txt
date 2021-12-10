@@ -1,14 +1,14 @@
 1) Посмотреть где я -- pwd
 2) Создать папку - mkdir My_files
 3) Зайти в папку - cd foldername (foldername/my__files/new_files)
-4) Создать 3 папки - mkdir {G_1, G_2, G_3}
+4) Создать 3 папки - mkdir G_1 G_2 G_3
 5) Зайти в любоую папку - cd G_1
 6) Создать 5 файлов (3 txt, 2 json) - touch 1.txt 2.txt 3.txt 4.json 5.json
-7) Создать 3 папки - mkdir {F_1, F_2, F_3}
+7) Создать 3 папки - mkdir F_1 F_2 F_3
 8. Вывести список содержимого папки - ls / ls -la
 9) + Открыть любой txt файл - vim 1.txt
 10) + написать туда что-нибудь, любой текст - I(insert) name “Vova”
-11) + сохранить и выйти - esc, :wq
+11) + сохранить и выйти - esc, :wq entr
 12) Выйти из папки на уровень выше - cd ..
 —
 13) переместить любые 2 файла, которые вы создали, в любую другую папку - (в папке с файлами) mv Big_1/1.txt Big_1/2.txt  Big_1/G_2 
@@ -35,15 +35,15 @@ http://162.55.220.72:5005/object_info_3?name=Vadim&age=32&salary=1000
 2) Написать скрипт который выполнит автоматически пункты 3, 4, 5, 6, 7, 8, 13
 
 
+
 #1/bin/fish
-cd Users/user/downloads/practice_QA_Course/group_25/QA_Course_GR_25
-mkdir {folder_1, folder_2, folder_3}
+cd Script_practice
+mkdir folder_1 folder_2  folder_3
 cd folder_1
 touch 1.txt 2.txt 3.txt 4.json 5.json
-mkdir {folder_4, folder_5}
+mkdir folder_4 folder_5
 ls -la
 mv 1.txt 2.txt folder_4
-
 
 
 
